@@ -3,4 +3,4 @@ Jalan Pulang Adalah sebuah aplikasi yang bisa nganterin Anda pulang. Aplikasi in
 Kami sama sekali tidak keberatan apabila teman teman berkeinginan untuk mengembangkan aplikasi ini. Selamat pulang dengan selamat
 
 
-(c) 2016, dibuat dengan penuh harapan oleh Burjo Rangers dalam Hackathon With Government 2015
+(c) 2015, dibuat dengan penuh harapan oleh Burjo Rangers dalam Hackathon With Government 2015
